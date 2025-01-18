@@ -2,3 +2,8 @@ baseURL = 'https://anatolehrlich.com/'
 languageCode = 'en-us'
 title = 'Anatol Ehrlich'
 theme = 'gokarna'
+
+[menu]
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
