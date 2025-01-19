@@ -5,5 +5,20 @@ theme = 'gokarna'
 
 [menu]
 [[menu.main]]
+name = "About"
+url = "/about/"
+pre = "<span data-feather='hexagon'></span>"
+weight = 1
+
+[[menu.main]]
 name = "Posts"
 url = "/posts/"
+pre = "<span data-feather='database'></span>"
+weight = 2
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+pre = "<span data-feather='code'></span>"
+weight = 3
+
