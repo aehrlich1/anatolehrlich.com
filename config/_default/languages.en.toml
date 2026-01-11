@@ -15,7 +15,7 @@ description = "My awesome website"
 [params.author]
 name = "Anatol Ehrlich"
 # image = "img/author.jpg"
-headline = "I'm only human"
+headline = "anatol.ehrlich@gmail.com"
 bio = "A little bit about you"
 links = [
     { email = "mailto:anatol.ehrlich@gmail.com" },
@@ -39,7 +39,7 @@ links = [
     #   { keybase = "https://keybase.io/username" },
     #   { kickstarter = "https://www.kickstarter.com/profile/username" },
     #   { lastfm = "https://lastfm.com/user/username" },
-    #   { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://www.linkedin.com/in/anatol-ehrlich-4667a4130/" },
     #   { mastodon = "https://mastodon.instance/@username" },
     #   { medium = "https://medium.com/username" },
     #   { mendeley = "https://www.mendeley.com/" },
